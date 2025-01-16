@@ -1,0 +1,16 @@
+{
+    "name": "M.Afwan.S",        
+    "age": 21,                 
+    "isStudent": false,        
+    "address": null,           
+    "hobbies": [               
+      "gaming",
+      "coding"
+    ],
+    "education": {             
+      "degree": "Bachelor's",
+      "major": "Computer Science",
+      "graduationYear": 2026
+    }
+  }
+  
